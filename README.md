@@ -7,5 +7,4 @@
 
 * **Juego Mate y Ley (estilo papers please)** - [[Mate-y-Ley](https://github.com/Shakmerferu/Mate-Ley)]
 * **Reproductor de Animes de Manera Local y sin Anuncios (pre-release)** - [AnimeLibre](https://github.com/Dou-Community-S-A/animelibre)
-*
-*
+
