@@ -15,8 +15,7 @@
 
 ### Developer/contributor
 
-![image](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)
-
+[![Imagen](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)](https://github.com/Dou-Community-S-A)
 
 <h1 align="left">Projects💻</h1>
 
