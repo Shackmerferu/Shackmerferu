@@ -1,6 +1,6 @@
 # Luciano Cayssials Fambrini / {[Steam](https://steamcommunity.com/id/Shackmerferu/)} / {[Twitter](https://twitter.com/Sh4ckm)}
 
-<img src="https://c4.wallpaperflare.com/wallpaper/179/1019/755/vasto-lorde-hollow-kurosaki-ichigo-anime-wallpaper-preview.jpg" align="right" alt="Shackmerferu is challenging you.."  width="182" height="136.5"> 
+<img src="https://c4.wallpaperflare.com/wallpaper/179/1019/755/vasto-lorde-hollow-kurosaki-ichigo-anime-wallpaper-preview.jpg" align="right" alt="Shackmerferu is challenging you.."  width="242.3" height="182"> 
 
 
 
