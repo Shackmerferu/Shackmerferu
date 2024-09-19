@@ -15,9 +15,7 @@
 
 ### Developer/contributor
 
-<p align="left">
-  <img src="https://drive.google.com/file/d/1n7rUtOgvfZ0BvlIKWWa5wGSfaS_9iB6t/view?usp=sharing" alt="Size Limit CLI">
-</p>
+![image](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)
 
 
 <h1 align="left">Projects💻</h1>
