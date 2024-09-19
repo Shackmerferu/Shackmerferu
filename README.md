@@ -1,10 +1,7 @@
-- 👋 Hola! soy @Shackmerferu
-- 👀 Estoy interesado en codigos y diseño
-- 🌱 Estoy actualmente estudiando programacion y desarrollo en videojuegos
-- Me gustaria obtener experiencia de campo en trabajo en equipo en el desarrollo y preparacion de videojuegos para tener mas conocimiento en un futuro
-- 📫 Me puedes contactar por @Shackmerferu en Instagram y Twitch
+<h1 align="center">Luciano Cayssials Fambrini </h1>
 
-<!---
-Shakmerferu/Shakmerferu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://github.com/Lostdou/Lostdou/assets/161231229/f6b8cf6c-ce60-4c66-bbcf-2729ec5140aa" alt="Descripción de la imagen" align="right" width="200" height="200">
+  <br>
+  <br>
+  
