@@ -13,9 +13,10 @@
 
 <h1 align="left">Organizations🏢</h1>
 
-Developer/contributor
-[**Dou Community S.A.**](https://github.com/Dou-Community-S-A)
-
+### Developer/contributor
+<p align="left">
+  <img src="https://github.com/Dou-Community-S-A" alt="Size Limit CLI">
+</p>
 
 
 <h1 align="left">Projects💻</h1>
