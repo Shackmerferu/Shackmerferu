@@ -21,10 +21,10 @@ Developer/contributor
 <h1 align="left">About Me:⛷️</h1>
 
 <p>
-  ###Me llamo Luciano Cayssials pero en internet me conocen por Shackmerferu , tengo 20 años y cumplo el 20/04 (bastante coincidencia con el año en que naci (2004)).
+  ### Me llamo Luciano Cayssials pero en internet me conocen por Shackmerferu , tengo 20 años y cumplo el 20/04 (bastante coincidencia con el año en que naci (2004)).
   Por ahora estoy dedicandome al estudio como analista programador en la facultad de ingenieria UNLPam si llegas a verme saludame que no muerdo jajaja , tambien hago karate como deporte y canto en mi tiempo libre,
   Me gusta el rock en todos sus aspectos y lenguajes , soy un adicto a las pepas (no te confundas que son las masitas 💀) y a los videojuegos , por ahora me ando viciando su tiempo al tarkov y al valorant pero con 
-  amigos.### 
+  amigos.
 </p>
 
 
