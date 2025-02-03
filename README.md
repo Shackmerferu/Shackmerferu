@@ -19,6 +19,20 @@
 [![Imagen](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)](https://github.com/Dou-Community-S-A)
 
 <h1 align="left">Projects💻</h1>
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/shackmerferu rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-56d51fdb-9a02-4bea-8964-e107a94942da' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >shackmerferu</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Argentina
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-56d51fdb-9a02-4bea-8964-e107a94942da' src='https://widgets.fiverr.com/api/v1/seller/shackmerferu?widget_id=56d51fdb-9a02-4bea-8964-e107a94942da' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
+
 
 * **Juego Mate y Ley "estilo papers please" (in-progress)** - [Mate-y-Ley](https://github.com/Shakmerferu/Mate-Ley)
 * **Reproductor de Animes de Manera Local y sin Anuncios (pre-release)** - [AnimeLibre](https://github.com/Dou-Community-S-A/animelibre)
