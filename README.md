@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/DouDev-SA">
-    <img src="https://github.com/user-attachments/assets/6e216fc4-5f7d-47f8-80af-fb2ca72f60c8" alt="DouDev S.A" width="400">
+    <img src="https://github.com/user-attachments/assets/6e216fc4-5f7d-47f8-80af-fb2ca72f60c8" alt="DouDev S.A" width="100">
   </a>
   <br>
   <h3>Amigos y conocidos codeando porque pueden</h3>
