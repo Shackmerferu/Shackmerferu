@@ -2,8 +2,9 @@
 
 <img src="https://c4.wallpaperflare.com/wallpaper/179/1019/755/vasto-lorde-hollow-kurosaki-ichigo-anime-wallpaper-preview.jpg" align="right" alt="Shackmerferu is challenging you.."  width="242.3" height="182"> 
 
-
-<p>🫡 Buenas a todos este es mi repositorio, acá van a poder ver avances personales y trabajos en conjunto con amigos o profesionales en GitHub.</p>
+<div align="left">
+ <h3>🫡 Buenas a todos este es mi repositorio, acá van a poder ver avances personales y trabajos en conjunto con amigos o profesionales en GitHub.</h3>
+</div>
 
 ### 🚩 From La Pampa , Argentina. 
 ###     Atte:Shackmerferu 🇦🇷🌆🌎
