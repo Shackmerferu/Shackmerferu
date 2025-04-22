@@ -16,7 +16,13 @@
 
 ### Developer/contributor
 
-[![Imagen](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)](https://github.com/Dou-Community-S-A)
+<div align="center">
+  <a href="https://github.com/DouDev-SA">
+    <img src="https://github.com/user-attachments/assets/6e216fc4-5f7d-47f8-80af-fb2ca72f60c8" alt="DouDev S.A" width="400">
+  </a>
+  <br>
+  <h3>Amigos y conocidos codeando porque pueden</h3>
+</div>
 
 <h1 align="left">Projects💻</h1>
 
