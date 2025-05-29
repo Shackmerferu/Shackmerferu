@@ -6,7 +6,7 @@
 ---
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=false&vCenter=true&width=435&lines=Full-stack+Developer+in+Training;Game+Dev+%2F+UI+UX+Explorer;Always+Building+Something+New..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=false&vCenter=true&width=435&lines=Full-stack+Developer+in+Training+%2F;Game+Dev+%2F+UI+UX+Explorer;Always+Building+Something+New..." alt="Typing SVG" />
 </h2>
 
 ---
