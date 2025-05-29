@@ -6,7 +6,7 @@
 ---
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=false&vCenter=true&width=435&lines=Full-stack+Developer+in+Training+%2F;Game+Dev+%2F+UI+UX+Explorer;Always+Building+Something+New..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=Full-stack+developer+in+training.;Game+Dev+%2F+UI+UX+Explorer.;Always+building+something+new..." alt="Typing SVG" />
 </h2>
 
 ---
@@ -45,7 +45,7 @@ Full-stack developer in training. Currently studying Software Analysis at UNLPam
 - **Languages**: C#, JavaScript, TypeScript, Python  
 - **Frameworks**: .NET, React, Vite, Node.js  
 - **Tools**: Git, Docker, SQL, Firebase, Unity, Blender  
-- **Practices**: Agile, MVC, SOLID principles
+- **Practices**: Agile(scrum), MVC, SOLID principles
 
 ---
 
