@@ -5,6 +5,12 @@
 
 ---
 
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=false&vCenter=true&width=435&lines=Full-stack+Developer+in+Training;Game+Dev+%2F+UI+UX+Explorer;Always+Building+Something+New..." alt="Typing SVG" />
+</h2>
+
+---
+
 ## About Me
 
 Full-stack developer in training. Currently studying Software Analysis at UNLPam Engineering School (Argentina). I build personal and team projects with focus on real-world use, performance, and clean design. Passionate about games, system design, and media technologies. Also martial artist and singer.
