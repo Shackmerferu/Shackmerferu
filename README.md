@@ -25,8 +25,8 @@ Full-stack developer in training. Currently studying Software Analysis at UNLPam
 ## Organizations
 
 **Contributor / Developer**  
-[DouDev S.R.L]([https://github.com/DouDev-SA](https://github.com/DouDev-SRL))  
-<img src="https://drive.google.com/file/d/1az6b6GeF8eU_R0qa08SvniEqpxkl8R_q/view?usp=sharing" alt="DouDev S.A" width="300">
+[DouDev S.A.](https://github.com/DouDev-SA)  
+<img src="https://drive.google.com/uc?export=view&id=1az6b6GeF8eU_R0qa08SvniEqpxkl8R_q" alt="DouDev S.A" width="300">
 
 ---
 
@@ -42,16 +42,16 @@ Full-stack developer in training. Currently studying Software Analysis at UNLPam
 
 ## Tech Stack
 
-- **Languages**: C#, JavaScript, TypeScript, Python  
+- **Languages**: C, C++, C#, JavaScript, TypeScript, Python 
 - **Frameworks**: .NET, React, Vite, Node.js  
-- **Tools**: Git, Docker, SQL, Firebase, Unity, Blender  
-- **Practices**: Agile(scrum), MVC, SOLID principles
+- **Tools**: Git, Docker, SQL, Unity, Blender  
+- **Practices**: Agile, MVC, SOLID principles
 
 ---
 
 ## Interests
 
-Web development, video game programming, local-first apps, backend optimization, UI/UX design, AI integration, creative coding, open-source contribution.
+Web development, Video Game programming, local-first apps, backend optimization, UI/UX design, AI integration, creative coding, open-source contribution.
 
 ---
 
@@ -59,6 +59,6 @@ Web development, video game programming, local-first apps, backend optimization,
 
 Alias: **Shackmerferu**  
 Style: autonomous, analytical, experimental  
-Affinity: videogames, rock, animation  
-Secondary skills: martial arts, vocal music, strategy games  
+Affinity: videogames, rock, animation , problem solving
+Secondary skills: martial arts, vocal music, problem solving games  
 Working style: deep focus, iterative feedback, system-level thinking
