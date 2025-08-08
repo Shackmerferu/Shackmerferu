@@ -26,7 +26,7 @@ Full-stack developer in training. Currently studying Software Analysis at UNLPam
 
 **Contributor / Developer**  
 [DouDev S.R.L](https://github.com/DouDev-SRL)  
-<img src="https://drive.google.com/uc?export=view&id=1hanBrU0jjees-cxIAmgvpLXU1T53tZgY" alt="DouDev S.R.L" width="300">
+<img src="https://drive.google.com/uc?export=view&id=1hanBrU0jjees-cxIAmgvpLXU1T53tZgY" alt="DouDev S.R.L" width="150">
 
 ---
 
