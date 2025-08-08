@@ -59,6 +59,6 @@ Web development, Video Game programming, local-first apps, backend optimization,
 
 Alias: **Shackmerferu**  
 Style: autonomous, analytical, experimental  
-Affinity: videogames, rock, animation , problem solving
+Affinity: videogames, rock, animation , problem solving  
 Secondary skills: martial arts, vocal music, problem solving games  
 Working style: deep focus, iterative feedback, system-level thinking
