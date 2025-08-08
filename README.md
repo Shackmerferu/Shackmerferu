@@ -33,7 +33,7 @@ Full-stack developer in training. Currently studying Software Analysis at UNLPam
 ## Featured Projects
 
 - [**Mate y Ley**](https://github.com/Shakmerferu/Mate-Ley)  
-  Bureaucracy simulation game inspired by *Papers, Please*, adapted to Argentinian export processes.
+  Bureaucracy simulation game inspired by *Papers, Please*, adapted to Argentinian export processes.(in progress)
 
 - [**AnimeLibre**](https://github.com/Dou-Community-S-A/animelibre)  
   Desktop app for ad-free, local anime playback with no tracking or popups.
