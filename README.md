@@ -11,7 +11,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=Full-stack+developer+in+training.;Game+Dev+%2F+UI+UX+Explorer.;Always+building+something+new..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-stack+developer+in+training.;Game+Dev+%2F+UI+UX+Explorer.;Always+building+something+new..." alt="Typing SVG" />
 </h2>
 
 ---
