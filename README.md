@@ -1,13 +1,13 @@
 # Luciano Cayssials Fambrini  
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=10nnruxmQsnz4rKTc0om0bL9UFYW0uv2j" alt="Banner" width="100%">
+</p>
+
+
 [Steam](https://steamcommunity.com/id/Shackmerferu/) | [Twitter](https://twitter.com/Sh4ckm) | [Instagram](https://instagram.com/shackmerferu)
 
 <img src="https://c4.wallpaperflare.com/wallpaper/179/1019/755/vasto-lorde-hollow-kurosaki-ichigo-anime-wallpaper-preview.jpg" align="right" alt="Shackmerferu is challenging you..." width="242" height="182">
-
----
-
-<h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=false&vCenter=true&width=600&lines=Full-stack+developer+in+training.;Game+Dev+%2F+UI+UX+Explorer.;Always+building+something+new..." alt="Typing SVG" />
-</h2>
 
 ---
 
