@@ -4,11 +4,11 @@
   <img src="https://drive.google.com/uc?export=view&id=10nnruxmQsnz4rKTc0om0bL9UFYW0uv2j" alt="Banner" width="100%">
 </p>
 
-<p align="center">
+<h1 align="center">
   <strong><a href="https://steamcommunity.com/id/Shackmerferu/">Steam</a></strong> | 
   <strong><a href="https://twitter.com/Sh4ckm">Twitter</a></strong> | 
   <strong><a href="https://instagram.com/shackmerferu">Instagram</a></strong>
-</p>
+</h1>
 
 ---
 
