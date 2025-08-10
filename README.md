@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <**[Steam](https://steamcommunity.com/id/Shackmerferu/)** | **[Twitter](https://twitter.com/Sh4ckm)** | **[Instagram](https://instagram.com/shackmerferu)**>
+  <strong><a href="https://steamcommunity.com/id/Shackmerferu/">Steam</a></strong> | 
+  <strong><a href="https://twitter.com/Sh4ckm">Twitter</a></strong> | 
+  <strong><a href="https://instagram.com/shackmerferu">Instagram</a></strong>
 </p>
 
 ---
