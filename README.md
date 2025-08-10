@@ -5,7 +5,8 @@
 </p>
 
 
-[Steam](https://steamcommunity.com/id/Shackmerferu/) | [Twitter](https://twitter.com/Sh4ckm) | [Instagram](https://instagram.com/shackmerferu)
+**[Steam](https://steamcommunity.com/id/Shackmerferu/)** | **[Twitter](https://twitter.com/Sh4ckm)** | **[Instagram](https://instagram.com/shackmerferu)**
+
 
 ---
 
