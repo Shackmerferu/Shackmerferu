@@ -14,7 +14,7 @@
 
 ## About Me
 
-Full-stack developer in training. Currently studying Software Analysis at UNLPam Engineering School (Argentina). I build personal and team projects with focus on real-world use, performance, and clean design. Passionate about games, system design, and media technologies. Also martial artist and singer.
+Full-stack developer in training. Currently studying Programmer Analyst at School of Engineering UNLPam (Argentina). I build personal and team projects with focus on real-world use, performance, and clean design. Passionate about games, system design, and media technologies. Also voleyball player , martial artist and singer.
 
 ---
 
@@ -25,7 +25,7 @@ Full-stack developer in training. Currently studying Software Analysis at UNLPam
 
 ## Organizations
 
-**Contributor / Developer**  
+**Co-Founder / Contributor / Developer**  
 [DouDev S.R.L](https://github.com/DouDev-SRL)  
 <img src="https://drive.google.com/uc?export=view&id=1SR0pyE9y1WXjY8NOi3Y1_ydNqxOZPdCl" alt="Doudev SRL" width="300">
 
