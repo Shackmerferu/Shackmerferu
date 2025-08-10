@@ -4,9 +4,9 @@
   <img src="https://drive.google.com/uc?export=view&id=10nnruxmQsnz4rKTc0om0bL9UFYW0uv2j" alt="Banner" width="100%">
 </p>
 
-
-**[Steam](https://steamcommunity.com/id/Shackmerferu/)** | **[Twitter](https://twitter.com/Sh4ckm)** | **[Instagram](https://instagram.com/shackmerferu)**
-
+<p align="center">
+  **[Steam](https://steamcommunity.com/id/Shackmerferu/)** | **[Twitter](https://twitter.com/Sh4ckm)** | **[Instagram](https://instagram.com/shackmerferu)**
+</p>
 
 ---
 
