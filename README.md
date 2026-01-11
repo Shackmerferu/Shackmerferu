@@ -48,7 +48,7 @@ Full-stack developer in training. Currently studying Programmer Analyst at Schoo
 ## Tech Stack
 
 - **Languages**: C, C++, C#, JavaScript, TypeScript, Python 
-- **Frameworks**: .NET, React, Vite, Node.js  
+- **Frameworks**: .NET, Angular, React, Vite, Node.js  
 - **Tools**: Git, Docker, SQL, Unity, Blender  
 - **Practices**: Agile, MVC, SOLID principles
 
