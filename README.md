@@ -59,6 +59,9 @@
 <p>
 <strong>Tools</strong><br>
 
+- PostgreSQL
+- SQL Server
+- SQLite
 - Git
 - Docker
 - SQL
