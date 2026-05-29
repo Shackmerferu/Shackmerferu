@@ -1,64 +1,115 @@
-# Luciano Cayssials Fambrini
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=10nnruxmQsnz4rKTc0om0bL9UFYW0uv2j" alt="Banner" width="100%">
-</p>
+  <h1 align="center"> Luciano Cayssials Fambrini &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://steamcommunity.com/id/Shackmerferu/">Steam</a> | <a href="https://twitter.com/Sh4ckm">Twitter</a> | <a href="https://instagram.com/shackmerferu">Instagram</a> </h1>
 
-<h1 align="center">
-  <strong><a href="https://steamcommunity.com/id/Shackmerferu/">Steam</a></strong> |
-  <strong><a href="https://twitter.com/Sh4ckm">Twitter</a></strong> |
-  <strong><a href="https://instagram.com/shackmerferu">Instagram</a></strong>
-</h1>
+  <p align="center"> <img src="assets\ichigo.jpg" alt="Banner" width="100%"> </p>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Full-stack+developer+in+training.;Game+Dev+%2F+UI+UX+Explorer.;Always+building+something+new...;AI-integrated+workflow+enthusiast." alt="Typing SVG" />
-</h2>
+  ---
 
----
+  ### About Me
 
-## About Me
+  <p align="left"> Full-stack developer in training. 
+  Currently studying Programmer Analyst at School of Engineering UNLPam (Argentina). 
+  I build personal and team projects with focus on real-world use, performance, and clean design. 
+  Passionate about: - games - system design - media technologies - AI workflows - UI/UX </p> 
 
-Full-stack developer in training. Currently studying Programmer Analyst at School of Engineering UNLPam (Argentina). I build personal and team projects with focus on real-world use, performance, and clean design. Passionate about games, system design, and media technologies. Also a volleyball player, martial artist, and singer.
+  ##### 📍 La Pampa, Argentina
 
-📍 La Pampa, Argentina
+  ---
 
----
+  ## Organizations
+  ### Co-Founder / Contributor / Developer
 
-## Organizations
+  <p align="left"> <img src="assets\doudev.png" alt="DouDev SRL" width="300"> 
+  
+  [DouDev S.R.L](https://github.com/DouDev-SRL)  
+  </p>
+  
+  
+  
+  ---
 
-**Co-Founder / Contributor / Developer**
-[DouDev S.R.L](https://github.com/DouDev-SRL)
+  ## Featured Projects
+  ### Mate y Ley Bureaucracy simulation game inspired by Papers, Please adapted to Argentinian export processes.
+  - Status: in progress.
 
----
+  ---
 
-## Featured Projects
+  <h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" width="60%"/> 
 
-- [**Mate y Ley**](https://github.com/Shakmerferu/Mate-Ley)
-  Bureaucracy simulation game inspired by *Papers, Please*, adapted to Argentinian export processes. _(in progress)_
+  # Tech Stack
 
----
+  <p>
+  <strong>Languages</strong><br>
 
-## Tech Stack
+  - C 
+  - C++ 
+  - C# 
+  - JavaScript 
+  - TypeScript 
+  - Python
+  </p>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | C, C++, C#, JavaScript, TypeScript, Python |
-| **Frameworks** | .NET, Angular, React, Vite, Node.js |
-| **Tools** | Git, Docker, SQL, Unity, Blender |
-| **Practices** | Agile, MVC, SOLID principles |
-| **LLMs** | Claude, ChatGPT, Gemini |
+  <p>
+  <strong>Frameworks</strong><br>
 
----
+  - .NET 
+  - Angular 
+  - React 
+  - Vite 
+  - Node.js
 
-## Interests
+  </p>
 
-Web development · Game programming · Local-first apps · Backend optimization · UI/UX design · AI integration · Creative coding · Open-source contribution
+  <p>
+  <strong>Tools</strong><br>
 
----
+  - Git 
+  - Docker 
+  - SQL 
+  - Unity 
+  - Blender
+  </p>
 
-## Persona
+  <p>
+  <strong>Practices</strong><br>
 
-**Alias:** Shackmerferu
-**Style:** autonomous · analytical · experimental
-**Affinity:** videogames · rock · animation · problem solving
-**Secondary skills:** martial arts · vocal music · puzzle games
-**Working style:** deep focus · iterative feedback · system-level thinking
+  - Agile 
+  - MVC 
+  - SOLID
+
+  </p>
+
+  <p>
+  <strong>LLMs</strong><br>
+
+  - Claude 
+  - ChatGPT 
+  - Gemini
+  </p>
+  </h2>
+
+  ---
+
+  ## Interests
+
+  - Web development
+  - Game programming
+  - Local-first apps
+  - Backend optimization
+  - UI/UX design
+  - AI integration
+  - Creative coding
+  - Open-source contribution
+
+  ---
+
+  ## Persona Alias:
+
+  - autonomous
+  - analytical
+  - experimental Affinity:
+    - videogames
+    - rock
+    - animation
+    - problem solving
+  - Secondary skills: - martial arts - vocal music - puzzle games
+  - Working style: - deep focus - iterative feedback - system-level thinking
