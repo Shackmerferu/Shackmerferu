@@ -31,12 +31,12 @@
 
 ---
 
-  <h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" width="60%"/>
+<h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" width="60%"/>
 
 # Tech Stack
 
-  <p>
-  <strong>Languages</strong><br>
+<p>
+<strong>Languages</strong><br>
 
 - C
 - C++
@@ -46,8 +46,8 @@
 - Python
 </p>
 
-  <p>
-  <strong>Frameworks</strong><br>
+<p>
+<strong>Frameworks</strong><br>
 
 - .NET
 - Angular
@@ -55,10 +55,9 @@
 - Vite
 - Node.js
 
-  </p>
-
-  <p>
-  <strong>Tools</strong><br>
+</p>
+<p>
+<strong>Tools</strong><br>
 
 - Git
 - Docker
@@ -67,17 +66,17 @@
 - Blender
 </p>
 
-  <p>
-  <strong>Practices</strong><br>
+<p>
+<strong>Practices</strong><br>
 
 - Agile
 - MVC
 - SOLID
 
-  </p>
+</p>
 
-  <p>
-  <strong>LLMs</strong><br>
+<p>
+<strong>LLMs</strong><br>
 
 - Claude
 - ChatGPT
