@@ -17,7 +17,7 @@
 
 ## Organizations
 
-### Co-Founder / Contributor / Developer
+#### Co-Founder / Contributor / Developer
 
   <p align="left"> <a href="https://github.com/DouDev-SRL"> <img src="assets/doudev.png" alt="DouDev SRL" width="300"> </a> </p>
   
@@ -25,13 +25,13 @@
 
 ## Featured Projects
 
-### Mate y Ley Bureaucracy simulation game inspired by Papers, Please adapted to Argentinian export processes.
+##### Mate y Ley Bureaucracy simulation game inspired by Papers, Please adapted to Argentinian export processes.
 
 - Status: in progress.
 
 ---
 
-<h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" width="60%"/>
+<h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" height="350" width="100%"/>
 
 # Tech Stack
 
