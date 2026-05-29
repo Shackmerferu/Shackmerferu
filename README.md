@@ -2,114 +2,112 @@
 
   <p align="center"> <img src="assets\ichigo.jpg" alt="Banner" width="100%"> </p>
 
-  ---
+---
 
-  ### About Me
+### About Me
 
   <p align="left"> Full-stack developer in training. 
   Currently studying Programmer Analyst at School of Engineering UNLPam (Argentina). 
   I build personal and team projects with focus on real-world use, performance, and clean design. 
-  Passionate about: - games - system design - media technologies - AI workflows - UI/UX </p> 
+  Passionate about: - games - system design - media technologies - AI workflows - UI/UX </p>
 
-  ##### 📍 La Pampa, Argentina
+##### 📍 La Pampa, Argentina
 
-  ---
+---
 
-  ## Organizations
-  ### Co-Founder / Contributor / Developer
+## Organizations
 
-  <p align="left"> <img src="assets\doudev.png" alt="DouDev SRL" width="300"> 
+### Co-Founder / Contributor / Developer
+
+  <p align="left"> <a href="https://github.com/DouDev-SRL"> <img src="assets/doudev.png" alt="DouDev SRL" width="300"> </a> </p>
   
-  [DouDev S.R.L](https://github.com/DouDev-SRL)  
-  </p>
-  
-  
-  
-  ---
+---
 
-  ## Featured Projects
-  ### Mate y Ley Bureaucracy simulation game inspired by Papers, Please adapted to Argentinian export processes.
-  - Status: in progress.
+## Featured Projects
 
-  ---
+### Mate y Ley Bureaucracy simulation game inspired by Papers, Please adapted to Argentinian export processes.
 
-  <h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" width="60%"/> 
+- Status: in progress.
 
-  # Tech Stack
+---
+
+  <h2 align="left"> <img src="assets\helloworld.gif" alt="Typing SVG" width="60%"/>
+
+# Tech Stack
 
   <p>
   <strong>Languages</strong><br>
 
-  - C 
-  - C++ 
-  - C# 
-  - JavaScript 
-  - TypeScript 
-  - Python
-  </p>
+- C
+- C++
+- C#
+- JavaScript
+- TypeScript
+- Python
+</p>
 
   <p>
   <strong>Frameworks</strong><br>
 
-  - .NET 
-  - Angular 
-  - React 
-  - Vite 
-  - Node.js
+- .NET
+- Angular
+- React
+- Vite
+- Node.js
 
   </p>
 
   <p>
   <strong>Tools</strong><br>
 
-  - Git 
-  - Docker 
-  - SQL 
-  - Unity 
-  - Blender
-  </p>
+- Git
+- Docker
+- SQL
+- Unity
+- Blender
+</p>
 
   <p>
   <strong>Practices</strong><br>
 
-  - Agile 
-  - MVC 
-  - SOLID
+- Agile
+- MVC
+- SOLID
 
   </p>
 
   <p>
   <strong>LLMs</strong><br>
 
-  - Claude 
-  - ChatGPT 
-  - Gemini
-  </p>
-  </h2>
+- Claude
+- ChatGPT
+- Gemini
+</p>
+</h2>
 
-  ---
+---
 
-  ## Interests
+## Interests
 
-  - Web development
-  - Game programming
-  - Local-first apps
-  - Backend optimization
-  - UI/UX design
-  - AI integration
-  - Creative coding
-  - Open-source contribution
+- Web development
+- Game programming
+- Local-first apps
+- Backend optimization
+- UI/UX design
+- AI integration
+- Creative coding
+- Open-source contribution
 
-  ---
+---
 
-  ## Persona Alias:
+## Persona Alias:
 
-  - autonomous
-  - analytical
-  - experimental Affinity:
-    - videogames
-    - rock
-    - animation
-    - problem solving
-  - Secondary skills: - martial arts - vocal music - puzzle games
-  - Working style: - deep focus - iterative feedback - system-level thinking
+- autonomous
+- analytical
+- experimental Affinity:
+  - videogames
+  - rock
+  - animation
+  - problem solving
+- Secondary skills: - martial arts - vocal music - puzzle games
+- Working style: - deep focus - iterative feedback - system-level thinking
