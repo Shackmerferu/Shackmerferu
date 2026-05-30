@@ -41,6 +41,7 @@
 - C
 - C++
 - C#
+- Java
 - JavaScript
 - TypeScript
 - Python
