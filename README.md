@@ -7,9 +7,9 @@
 ### About Me
 
   <p align="left"> Full-stack developer in training. 
-  Currently studying Programmer Analyst at School of Engineering UNLPam (Argentina). 
-  I build personal and team projects with focus on real-world use, performance, and clean design. 
-  Passionate about: - games - system design - media technologies - AI workflows - UI/UX </p>
+  Currently studying Programmer Analyst at School of Engineering UNLPam (Argentina). </p>
+  <p align="left"> I build personal and team projects with focus on real-world use, performance, and clean design. </p>
+  <p align="left"> Passionate about: - games - system design - media technologies - AI workflows - UI/UX </p>
 
 ##### 📍 La Pampa, Argentina
 
