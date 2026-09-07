@@ -15,7 +15,7 @@ Programmer Analyst Student / Analista Programador en formación · La Pampa, Arg
 </div>
 
 <a align="center">
-  <img src="assets/ichigo.jpg" alt="Banner" width="100%">
+  <img src="assets/portfolio.png" alt="Banner" width="100%">
 </a>
 
 ---
